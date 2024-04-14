@@ -1,0 +1,1 @@
+['https://www.autoscout24.fr/offres/renault-clio-clio-iv-societe-clio-societe-dci-75-energy-air-med-diesel-blanc-1feaa03e-7d2f-45f9-89e8-a2fd71f5750f', '€ 10\u202f990', '63\u202f740 km', '06/2017', 'NA', 'NA', 'NA', 'NA', 'NA', 'Berline', 'Occasion', 'NA', 'NA', 'NA', 'Diesel', 'Diesel', 1, 'NA', 'NA', 1, 'Renault', 'Clio']
